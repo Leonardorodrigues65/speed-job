@@ -1,0 +1,20 @@
+
+
+body{
+    padding: 0;
+    margin: 0 auto;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    background-color: var(--color--secundary);
+}
+
+:root{
+    --color--primary:#FFFFFF;
+    --color--secundary:#E9ECEF;
+    --color--gray--1:#495057;
+    --color--blue--1:#484FFB;
+    --background--button:#121010;
+    --background--header:#212529;
+}
+
